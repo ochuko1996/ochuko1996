@@ -108,15 +108,6 @@ Dynamic Software Engineer with 3+ years of expertise building high-performance w
 
 ## 🔥 Featured Projects
 
-<div style="display: flex; flex-direction: row;">
-  <a href="#">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ochuko1996&repo=kadmap-connect&theme=react&hide_border=true&show_icons=true" alt="Kadmap Connect" />
-  </a>
-  <a href="#">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ochuko1996&repo=lachariz-portfolio&theme=react&hide_border=true&show_icons=true" alt="La Chariz Portfolio" />
-  </a>
-</div>
-
 ### Kadmap Connect Distribution Ecosystem
 
 A comprehensive mobile ecosystem built with React Native and TypeScript that streamlined operations for 500+ distributors and customers. Features include real-time inventory tracking, secure authentication, and order management.
